@@ -81,6 +81,13 @@ console.log(terceiroNum < quartoNum)
 console.log(terceiroNum >= quartoNum)
 console.log(terceiroNum <= quartoNum)
 
+// Tipo Null
+let input2 = null;
 
+if (input2 === null) {
+ console.log('não há informação');
+} else {
+ console.log(input2);
+}
 
 
