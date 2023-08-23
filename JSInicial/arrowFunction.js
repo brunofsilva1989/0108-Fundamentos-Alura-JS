@@ -19,3 +19,4 @@ console.log(soma(5,6))
 //Arrow function com + de 1 linha de instrução
 
 //Hoisting: arrow function se comporta como expressão
+
